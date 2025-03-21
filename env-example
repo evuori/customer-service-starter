@@ -1,0 +1,16 @@
+# API Keys
+ANTHROPIC_API_KEY=""
+TAVILY_API_KEY=""  
+
+# Azure OpenAI Configuration (for embeddings only)
+AZURE_OPENAI_API_KEY=""
+AZURE_OPENAI_ENDPOINT=""
+AZURE_OPENAI_DEPLOYMENT_NAME=""
+AZURE_OPENAI_API_VERSION=""
+
+# Database Configuration
+DB_URL="https://storage.googleapis.com/benchmarks-artifacts/travel-db/travel2.sqlite"   
+FAQ_URL="https://storage.googleapis.com/benchmarks-artifacts/travel-db/swiss_faq.md"
+
+# Model Configuration
+MODEL_NAME="claude-3-sonnet-20240229"
