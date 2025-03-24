@@ -1,6 +1,6 @@
 # Customer Service Starter
 
-An intelligent customer service tool that helps customers with flight information, bookings, and travel-related queries. The bot uses Claude 3 Sonnet for natural language understanding and Azure OpenAI for embeddings.
+An intelligent customer service AI tool that helps customers with flight information, bookings, and travel-related queries. The bot uses Claude 3 Sonnet for natural language understanding and Azure OpenAI for embeddings. Langgraph framwork is used for state and agent chaining & routing. This starter is based on official Langgraph documentation.
 
 ## Features
 
