@@ -107,4 +107,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Anthropic for Claude 3
 - Microsoft Azure for OpenAI services
 - LangChain for the framework
-- Swiss Airlines for the use case 
